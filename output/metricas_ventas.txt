@@ -1,0 +1,7 @@
+total_ventas: 1338696545.0
+promedio_venta: 58882.62788651858
+total_productos_vendidos: 143665.5
+num_clientes: 283
+num_productos: 1277
+producto_mas_vendido: PANELA X ATADO
+cliente_principal: PAOLA RODRIGUEZ LOZANO
